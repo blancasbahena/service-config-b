@@ -1,2 +1,1 @@
-# service-config-b
-service-config-b
+# cloud-config
